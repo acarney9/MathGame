@@ -1,0 +1,50 @@
+D:\Math game\MathGame\MathGame\bin\Debug\MathGame.exe.config
+D:\Math game\MathGame\MathGame\bin\Debug\MathGame.exe
+D:\Math game\MathGame\MathGame\bin\Debug\MathGame.pdb
+D:\Math game\MathGame\MathGame\obj\Debug\MathGame.csprojResolveAssemblyReference.cache
+D:\Math game\MathGame\MathGame\obj\Debug\MathGame.Form1.resources
+D:\Math game\MathGame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+D:\Math game\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.Cache
+D:\Math game\MathGame\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+D:\Math game\MathGame\MathGame\obj\Debug\MathGame.exe
+D:\Math game\MathGame\MathGame\obj\Debug\MathGame.pdb
+E:\Math game\MathGame\MathGame\bin\Debug\MathGame.exe.config
+E:\Math game\MathGame\MathGame\bin\Debug\MathGame.exe
+E:\Math game\MathGame\MathGame\bin\Debug\MathGame.pdb
+E:\Math game\MathGame\MathGame\obj\Debug\MathGame.csprojResolveAssemblyReference.cache
+E:\Math game\MathGame\MathGame\obj\Debug\MathGame.Form1.resources
+E:\Math game\MathGame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+E:\Math game\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.Cache
+E:\Math game\MathGame\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+E:\Math game\MathGame\MathGame\obj\Debug\MathGame.exe
+E:\Math game\MathGame\MathGame\obj\Debug\MathGame.pdb
+C:\Users\Alex Carney\Downloads\MathGame (1)\MathGame\MathGame\bin\Debug\MathGame.exe.config
+C:\Users\Alex Carney\Downloads\MathGame (1)\MathGame\MathGame\bin\Debug\MathGame.exe
+C:\Users\Alex Carney\Downloads\MathGame (1)\MathGame\MathGame\bin\Debug\MathGame.pdb
+C:\Users\Alex Carney\Downloads\MathGame (1)\MathGame\MathGame\obj\Debug\MathGame.csprojResolveAssemblyReference.cache
+C:\Users\Alex Carney\Downloads\MathGame (1)\MathGame\MathGame\obj\Debug\MathGame.Form1.resources
+C:\Users\Alex Carney\Downloads\MathGame (1)\MathGame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+C:\Users\Alex Carney\Downloads\MathGame (1)\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.Cache
+C:\Users\Alex Carney\Downloads\MathGame (1)\MathGame\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\Alex Carney\Downloads\MathGame (1)\MathGame\MathGame\obj\Debug\MathGame.exe
+C:\Users\Alex Carney\Downloads\MathGame (1)\MathGame\MathGame\obj\Debug\MathGame.pdb
+C:\Users\Hoainam\Desktop\New folder\MathGame\MathGame\obj\Debug\MathGame.csprojResolveAssemblyReference.cache
+C:\Users\Hoainam\Desktop\New folder\MathGame\MathGame\obj\Debug\MathGame.Form1.resources
+C:\Users\Hoainam\Desktop\New folder\MathGame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+C:\Users\Hoainam\Desktop\New folder\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.Cache
+C:\Users\Hoainam\Desktop\New folder\MathGame\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\Hoainam\Desktop\New folder\MathGame\MathGame\obj\Debug\MathGame.exe
+C:\Users\Hoainam\Desktop\New folder\MathGame\MathGame\obj\Debug\MathGame.pdb
+C:\Users\Hoainam\Desktop\New folder\MathGame\MathGame\bin\Debug\MathGame.exe.config
+C:\Users\Hoainam\Desktop\New folder\MathGame\MathGame\bin\Debug\MathGame.exe
+C:\Users\Hoainam\Desktop\New folder\MathGame\MathGame\bin\Debug\MathGame.pdb
+D:\Math game\New folder\MathGame\MathGame\obj\Debug\MathGame.csprojResolveAssemblyReference.cache
+D:\Math game\New folder\MathGame\MathGame\obj\Debug\MathGame.Form1.resources
+D:\Math game\New folder\MathGame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+D:\Math game\New folder\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.Cache
+D:\Math game\New folder\MathGame\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+D:\Math game\New folder\MathGame\MathGame\obj\Debug\MathGame.exe
+D:\Math game\New folder\MathGame\MathGame\obj\Debug\MathGame.pdb
+D:\Math game\New folder\MathGame\MathGame\bin\Debug\MathGame.exe.config
+D:\Math game\New folder\MathGame\MathGame\bin\Debug\MathGame.exe
+D:\Math game\New folder\MathGame\MathGame\bin\Debug\MathGame.pdb
